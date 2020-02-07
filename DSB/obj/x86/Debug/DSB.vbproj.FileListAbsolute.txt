@@ -1,0 +1,13 @@
+C:\Users\AVI\Downloads\DSB.exe.config
+D:\My\M.S\Soft\DSB\DSB\obj\x86\Debug\Interop.WMPLib.dll
+D:\My\M.S\Soft\DSB\DSB\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\My\M.S\Soft\DSB\DSB\obj\x86\Debug\DSB.vbproj.ResolveComReference.cache
+C:\Users\AVI\Downloads\DSB.exe
+C:\Users\AVI\Downloads\DSB.pdb
+C:\Users\AVI\Downloads\DSB.xml
+D:\My\M.S\Soft\DSB\DSB\obj\x86\Debug\DSB.Form1.resources
+D:\My\M.S\Soft\DSB\DSB\obj\x86\Debug\DSB.Resources.resources
+D:\My\M.S\Soft\DSB\DSB\obj\x86\Debug\DSB.vbproj.GenerateResource.Cache
+D:\My\M.S\Soft\DSB\DSB\obj\x86\Debug\DSB.exe
+D:\My\M.S\Soft\DSB\DSB\obj\x86\Debug\DSB.xml
+D:\My\M.S\Soft\DSB\DSB\obj\x86\Debug\DSB.pdb
